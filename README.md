@@ -4,8 +4,6 @@
 
   L'idée est simple : on peut créer des vols, les consulter, et réserver une place sur un vol tant qu'il en reste.
 
-  ## Technologies
-
 ## Technologies
 
 - Java 21
